@@ -7,6 +7,6 @@ Especially suitable for code katas and other small ruby projects.
 
 1. Clone the project: `$ git clone https://github.com/codetorial/testable.git`
 2. Enter the project directory: `$ cd testable`
-3. Bundle: `$ bundle`
-4. Change the name: `$ ruby rename.rb <project name>`
+3. Change the name: `$ ruby rename.rb <project name>`
+4. Bundle: `$ bundle`
 5. Start testing!
